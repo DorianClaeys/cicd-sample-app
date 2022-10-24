@@ -1,2 +1,2 @@
-# cicd-sample-app
-sample app labo1
+# sample_app
+sample_app_infra_lab1
